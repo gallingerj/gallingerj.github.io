@@ -9,7 +9,6 @@ excerpt: "Learn spells to improve your research"
 
 ##Enchanted forest
 
-![magical forest](https://github.com/gallingerj/gallingerj.github.io/assets/images/magical-forest.jpg "magical forest")
-
+![magical forest](https:gallingerj.github.io/assets/images/magical-forest.jpg){: .full}
 
 I am a Research Data Management Librarian at SFU Library.

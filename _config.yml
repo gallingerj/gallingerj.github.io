@@ -14,7 +14,7 @@ description              : "Training for data apprentices"
 url                      : "https://gallingerj.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gallingerj/gallingerj.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/magical-forest.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -110,6 +110,7 @@ author:
 # Reading Files
 include:
   - .htaccess
+  - ["_posts"]
   - ["_pages"]
 exclude:
   - "*.sublime-project"
