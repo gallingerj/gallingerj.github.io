@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Resources"
+title                    : "Data Magic"
 title_separator          : "-"
 name                     : "Jessica Gallinger"
-description              : ""
+description              : "Training for data apprentices"
 url                      : "https://gallingerj.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gallingerj/gallingerj.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Jessica Gallinger"
   avatar           : "https://avatars3.githubusercontent.com/u/10601796?v=3&u=537ea98bd59f8b6a8906bdcfee8c76898ad53e0d&s=400"
-  bio              : "Research Data Management Librarian"
+  bio              : "Data Wizard"
   location         : "Burnaby, B.C."
   email            :
   uri              :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/gallingerj"
+  github           : "gallingerj"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jgallinger1/"
+  linkedin         : "jgallinger1"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
