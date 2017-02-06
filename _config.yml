@@ -81,7 +81,7 @@ author:
   avatar           : "https://avatars3.githubusercontent.com/u/10601796?v=3&u=537ea98bd59f8b6a8906bdcfee8c76898ad53e0d&s=400"
   bio              : "Data Wizard"
   location         : "Burnaby, B.C."
-  email            :
+  email            : "jgalling@sfu.ca"
   uri              :
   bitbucket        :
   codepen          :
@@ -110,7 +110,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
