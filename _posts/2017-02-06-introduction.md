@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to Data Magic"
 date:   2017-02-06
 categories:
