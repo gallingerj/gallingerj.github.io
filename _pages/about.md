@@ -3,8 +3,7 @@ permalink: /about/
 title: "About"
 layout: single
 author_profile: true
-modified: 2017-02-06
-
+date: 2017-02-06
 ---
 
 ## This is the about page.
