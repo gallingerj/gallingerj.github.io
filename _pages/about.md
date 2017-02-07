@@ -1,8 +1,7 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
 layout: single
-author_profile: true
 date: 2017-02-06
 ---
 
