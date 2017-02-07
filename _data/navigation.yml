@@ -1,11 +1,9 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Posts"
+    url: https://gallingerj.github.io/index/
   - title: "About"
-    url: https://gallingerj.github.io/about/
-  - title: "Contact"
-    url: https://gallingerj.github.io/contact/
+    url: https://gallingerj.github.io/_pages/about
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
