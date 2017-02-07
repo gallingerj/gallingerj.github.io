@@ -1,9 +1,10 @@
 ---
-permalink: "/about/"
-type: pages
+permalink: /about/
+title: "About"
 layout: single
 author_profile: true
+modified: 2017-02-06
 
 ---
 
-This is the about page.
+## This is the about page.
