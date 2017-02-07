@@ -1,12 +1,8 @@
 ---
 permalink: /about/
-
-scope:
-  path: ""
-  type: pages
-  values:
-    layout: single
-    author_profile: true
+type: pages
+layout: single
+author_profile: true
 
 ---
 
