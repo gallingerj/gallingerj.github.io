@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Posts"
-    url: https://gallingerj.github.io/index/
+    url: /index
   - title: "About"
-    url: https://gallingerj.github.io/about/
+    url: /_pages/about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
