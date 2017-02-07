@@ -1,7 +1,13 @@
 ---
 permalink: /about/
-layout: single
-author_profile: true
+
+scope:
+  path: ""
+  type: pages
+  values:
+    layout: single
+    author_profile: true
+
 ---
 
 This is the about page.
