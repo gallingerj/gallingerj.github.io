@@ -1,6 +1,6 @@
 ---
 title: "test"
-permalink: /about/
+permalink: /test/
 layout: single
 date: 2017-03-22
 ---
