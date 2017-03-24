@@ -8,6 +8,8 @@ main:
     url: /test/
   - title: "Home"
     url: /
+  - title: "Other"
+    url: /index
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
