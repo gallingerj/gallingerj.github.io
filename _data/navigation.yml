@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Test"
     url: /test/
+  - title: "Home"
+    url: /
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
