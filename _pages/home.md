@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_image: /assets/images/magical-forest.jpg
   cta_label: "<i class='fa fa-download'></i> Feel the magic"
-  cta_url: "/pages/about.md"
+  cta_url: "/pages/about/"
   caption:
 excerpt: 'To solve the mysteries of the universe, use the magic of research data. Welcome, my friend.'
 
