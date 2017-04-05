@@ -6,7 +6,7 @@ excerpt: "Level-up your security"
 
 ---
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/aikido-362951_960_720.jpg){: .align-right} 
+![Aikido]({{ site.url }}{{ site.baseurl }}/assets/images/aikido-362951_960_720.jpg){: .align-right} 
 ## Level-up your security
 These resources are selected to complement the Staff Development Day workshop.
 
