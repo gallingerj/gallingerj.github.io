@@ -6,9 +6,9 @@ excerpt: "Level-up your security"
 
 ---
  
-These resources are selected to complement the Staff Development Day workshop. They are organized by topic generally corresponding to intruction areas.
-![Aikido]({{ site.url }}{{ site.baseurl }}/assets/images/aikido-362951_960_720.jpg){: .align-right}
----
+![Aikido]({{ site.url }}{{ site.baseurl }}/assets/images/aikido-362951_960_720.jpg){: .align-right} These resources are selected to complement the Staff Development Day workshop. They are organized by topic generally corresponding to intruction areas.  
+
+***
 
 ### Topic: Passwords
 
