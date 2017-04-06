@@ -6,12 +6,13 @@ excerpt: "Level-up your security"
 
 ---
  
-These resources are selected to complement the _Staff Development Day_ workshop. They are organized by topic generally corresponding to instruction areas.  
+These resources are selected to complement the _Staff Development Day_ workshop. The organized topics generally correspond to instruction areas.  
 
 [Passwords](#passwords) | [Multi-factor Authentication](#multi-factor-authentication) | [Browsers & Extensions](#browsers-and-extensions) | [Virtual Private Networks](#virtual-private-networks) | [Secure Messaging](#secure-messaging) | [Device Encryption](#device-encryption) | [Cryptoparty](#cryptoparty)
 
 ***
-![Aikido]({{ site.url }}{{ site.baseurl }}/assets/images/aikido-362951_960_720.jpg){: .align-right} ### Passwords
+### Passwords
+![Aikido]({{ site.url }}{{ site.baseurl }}/assets/images/aikido-362951_960_720.jpg){: .align-right} 
 
 [Creating Strong Passwords](https://ssd.eff.org/en/module/creating-strong-passwords).  
 _Electronic Frontier Foundation (EFF). Surveillance Self-Defense._
