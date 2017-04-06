@@ -8,7 +8,7 @@ excerpt: "Level-up your security"
  
 ![Aikido]({{ site.url }}{{ site.baseurl }}/assets/images/aikido-362951_960_720.jpg){: .align-right} These resources are selected to complement the Staff Development Day workshop. They are organized by topic generally corresponding to instruction areas.  
 
-[Passwords](#topic:-passwords) | [Multi-factor Authentication](#topic:-multi-factor-authentication) | [Browsers & Extensions](#topic:-browsers-&-extensions) | [Virtual Private Networks](#topic:-virtual-private-networks-(vpns)) | [Secure Messaging](#topic:-secure-messaging) | [Device Encryption](#topic:-device-encryption) | [Cryptoparty](#topic:-cryptoparty!)
+[Passwords](#topic:-passwords) | [Multi-factor Authentication](#topic:-multi-factor-authentication) | [Browsers & Extensions](#topic:-browsers-&-extensions) | [Virtual Private Networks](#topic:-virtual-private-networks-(vpns)) | [Secure Messaging](secure-messaging) | [Device Encryption](#topic:-device-encryption) | [Cryptoparty](#topic:-cryptoparty!)
 
 ***
 
@@ -60,7 +60,7 @@ March 24, 2017. Motherboard / VICE Media.
 [TunnelBear](https://www.tunnelbear.com/privacy-policy).
 Consumer VPN with headquarters in Canada.
 
-### Topic: Secure Messaging
+### Secure Messaging
 
 [Signal](https://whispersystems.org/).
 Private messaging & calling for iPhone and Android.
