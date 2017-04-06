@@ -8,7 +8,7 @@ excerpt: "Level-up your security"
  
 ![Aikido]({{ site.url }}{{ site.baseurl }}/assets/images/aikido-362951_960_720.jpg){: .align-right} These resources are selected to complement the Staff Development Day workshop. They are organized by topic generally corresponding to instruction areas.  
 
-[Passwords](#passwords) | [Multi-factor Authentication](#multi-factor-authentication) | [Browsers & Extensions](#browsers-&-extensions) | [Virtual Private Networks](#virtual-private-networks-(vpns)) | [Secure Messaging](#secure-messaging) | [Device Encryption](#device-encryption) | [Cryptoparty](#cryptoparty!)
+[Passwords](#passwords) | [Multi-factor Authentication](#multi-factor-authentication) | [Browsers & Extensions](#browsers-and-extensions) | [Virtual Private Networks](#virtual-private-networks) | [Secure Messaging](#secure-messaging) | [Device Encryption](#device-encryption) | [Cryptoparty](#cryptoparty)
 
 ***
 
@@ -34,7 +34,7 @@ Hardware authentication device.
 [Two Factor Auth (2FA)](https://twofactorauth.org/).
 List of websites and whether or not they support 2FA.
 
-### Browsers & Extensions
+### Browsers and Extensions
 
 [Privacy Badger](https://www.eff.org/privacybadger).
 EFF Product: Privacy Badger blocks spying ads and invisible trackers. 
@@ -48,7 +48,7 @@ Bounces communications around a distributed network of relays.
 [Certbot](https://certbot.eff.org/).
 EFF Product: Enables HTTPS on your website by deploying Let's Encrypt certificates.
 
-### Virtual Private Networks (VPNs)
+### Virtual Private Networks
 
 [Here’s How to Protect Your Privacy From Your Internet Service Provider](https://www.eff.org/deeplinks/2017/04/heres-how-protect-your-privacy-your-internet-service-provider).
 April 3, 2017. Electronic Frontier Foundation (EFF). 
@@ -73,7 +73,7 @@ _Electronic Frontier Foundation (EFF). Surveillance Self-Defense._
 [How to Encrypt Your Android Phone (and Why You Might Want to)](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/).
 April 17, 2016. How-to Geek.
 
-### Cryptoparty!
+### Cryptoparty
 
 [Cryptoparty Handbook](https://www.cryptoparty.in/learn/handbook).
 Grassroots global endeavour to introduce the basics of digital security.
