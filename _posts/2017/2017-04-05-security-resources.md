@@ -5,10 +5,10 @@ date:   2017-04-05
 excerpt: "Level-up your security"
 
 ---
-
-![Aikido]({{ site.url }}{{ site.baseurl }}/assets/images/aikido-362951_960_720.jpg){: .align-right} 
-## Level-up your security
-These resources are selected to complement the Staff Development Day workshop.
+ 
+These resources are selected to complement the Staff Development Day workshop. They are organized by topic generally corresponding to intruction areas.
+![Aikido]({{ site.url }}{{ site.baseurl }}/assets/images/aikido-362951_960_720.jpg){: .align-right}
+---
 
 ### Topic: Passwords
 
