@@ -42,11 +42,14 @@ EFF Product: Privacy Badger blocks spying ads and invisible trackers.
 [HTTPS Everywhere](https://www.eff.org/HTTPS-EVERYWHERE).
 EFF Product: Encrypts the web.
 
+[Certbot](https://certbot.eff.org/).
+EFF Product: Enables HTTPS on your website by deploying Let's Encrypt certificates.
+
 [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en).
 Bounces communications around a distributed network of relays.
 
-[Certbot](https://certbot.eff.org/).
-EFF Product: Enables HTTPS on your website by deploying Let's Encrypt certificates.
+[Tor network exit nodes found to be sniffing passing traffic](https://www.scmagazineuk.com/tor-network-exit-nodes-found-to-be-sniffing-passing-traffic/article/535424/).
+July 1, 2015. SC Magazine UK.
 
 ### Virtual Private Networks
 
@@ -77,3 +80,4 @@ April 17, 2016. How-to Geek.
 
 [Cryptoparty Handbook](https://www.cryptoparty.in/learn/handbook).
 Grassroots global endeavour to introduce the basics of digital security.
++ Last release August 21, 2013; fundamentals hold true, products have changed.
