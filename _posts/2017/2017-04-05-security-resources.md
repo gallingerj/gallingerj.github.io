@@ -1,12 +1,12 @@
 ---
 layout: single
 title:  "Security Resources"
-date:   2017-04-05
+date:   2017-05-09
 excerpt: "Level-up your security"
 
 ---
  
-These resources are selected to complement the _Staff Development Day_ workshop. The organized topics generally correspond to instruction areas.  
+These resources are selected to complement the public cryptoparty. The organized topics generally correspond to instruction areas.  
 
 [Passwords](#passwords) | [Multi-factor Authentication](#multi-factor-authentication) | [Browsers & Extensions](#browsers-and-extensions) | [Virtual Private Networks](#virtual-private-networks) | [Secure Messaging](#secure-messaging) | [Device Encryption](#device-encryption) | [Cryptoparty](#cryptoparty)
 
